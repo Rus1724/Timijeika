@@ -1,2 +1,1 @@
-Hello file1
-fewkwdkwdhw
+Notes in file1
